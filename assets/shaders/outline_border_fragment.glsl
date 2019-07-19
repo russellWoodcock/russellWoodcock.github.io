@@ -27,6 +27,8 @@ void main() {
 
    float alpha = 0.0;
    bool allin = true;
+   const ix
+
    for( float ix = -u_offset; ix <= ( u_step + u_offset + u_offset); ix += u_step )
    {
       for( float iy = -u_offset; iy <= ( u_step + u_offset + u_offset); iy += u_step )
