@@ -1,0 +1,208 @@
+beachhouse.png
+size: 900, 534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+babmoo_legs_side
+  rotate: false
+  xy: 750, 92
+  size: 30, 128
+  orig: 30, 128
+  offset: 0, 0
+  index: -1
+bamboo_ceiling_horz
+  rotate: false
+  xy: 0, 0
+  size: 150, 15
+  orig: 150, 15
+  offset: 0, 0
+  index: -1
+bamboo_ceiling_vert
+  rotate: false
+  xy: 778, 348
+  size: 26, 186
+  orig: 26, 186
+  offset: 0, 0
+  index: -1
+bamboo_legs
+  rotate: false
+  xy: 233, 0
+  size: 128, 30
+  orig: 128, 30
+  offset: 0, 0
+  index: -1
+bg_beachhouse
+  rotate: false
+  xy: 128, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+carpetpath2_horz
+  rotate: false
+  xy: 768, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+carpetpath2_vert
+  rotate: false
+  xy: 256, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floor_bamboo
+  rotate: false
+  xy: 384, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floor_bamboo_corner
+  rotate: false
+  xy: 512, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floor_bamboo_north
+  rotate: false
+  xy: 0, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards4
+  rotate: false
+  xy: 640, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards6
+  rotate: false
+  xy: 0, 348
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kitchen_bamboo_front
+  rotate: false
+  xy: 540, 348
+  size: 160, 183
+  orig: 160, 183
+  offset: 0, 0
+  index: -1
+kitchen_bamboo_side
+  rotate: false
+  xy: 195, 348
+  size: 150, 183
+  orig: 150, 183
+  offset: 0, 0
+  index: -1
+pot1
+  rotate: false
+  xy: 183, 0
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+pot2
+  rotate: false
+  xy: 213, 0
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+pot3
+  rotate: false
+  xy: 150, 0
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+wall_front_arch_straw
+  rotate: false
+  xy: 600, 92
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+wall_front_counter_straw
+  rotate: false
+  xy: 0, 92
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_painting1_straw
+  rotate: false
+  xy: 150, 92
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+wall_front_painting2_straw
+  rotate: false
+  xy: 450, 92
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+wall_front_straw
+  rotate: false
+  xy: 300, 92
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+wall_front_straw_destructable
+  rotate: false
+  xy: 750, 30
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_straw_destructable_anim
+  rotate: false
+  xy: 0, 30
+  size: 750, 62
+  orig: 750, 62
+  offset: 0, 0
+  index: -1
+wall_side_arch_straw
+  rotate: false
+  xy: 739, 348
+  size: 39, 186
+  orig: 39, 186
+  offset: 0, 0
+  index: -1
+wall_side_counter_straw
+  rotate: false
+  xy: 128, 348
+  size: 28, 183
+  orig: 28, 183
+  offset: 0, 0
+  index: -1
+wall_side_straw
+  rotate: false
+  xy: 700, 348
+  size: 39, 186
+  orig: 39, 186
+  offset: 0, 0
+  index: -1
+wall_side_straw_destructable
+  rotate: false
+  xy: 156, 348
+  size: 39, 183
+  orig: 39, 183
+  offset: 0, 0
+  index: -1
+wall_side_straw_destructable_anim
+  rotate: false
+  xy: 345, 348
+  size: 195, 183
+  orig: 195, 183
+  offset: 0, 0
+  index: -1

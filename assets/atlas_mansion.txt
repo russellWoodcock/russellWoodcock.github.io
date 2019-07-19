@@ -1,0 +1,75 @@
+atlas_mansion.png
+size: 256, 575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabinet1
+  rotate: false
+  xy: 0, 63
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+cabinet2
+  rotate: false
+  xy: 0, 0
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+floor_rough_wood
+  rotate: false
+  xy: 128, 191
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards1
+  rotate: false
+  xy: 0, 447
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards2
+  rotate: false
+  xy: 128, 319
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards3
+  rotate: false
+  xy: 128, 447
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards4
+  rotate: false
+  xy: 0, 319
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards5
+  rotate: false
+  xy: 0, 191
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards6
+  rotate: false
+  xy: 80, 63
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wall_front_painting2
+  rotate: false
+  xy: 70, 0
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
