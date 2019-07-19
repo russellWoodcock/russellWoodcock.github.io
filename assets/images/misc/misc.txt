@@ -1,0 +1,348 @@
+misc.png
+size: 992, 1136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 0, 430
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+basement_button
+  rotate: false
+  xy: 150, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+basement_button_big
+  rotate: false
+  xy: 534, 82
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+basement_button_gold
+  rotate: false
+  xy: 470, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+basement_button_gold_small
+  rotate: false
+  xy: 0, 82
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+basement_button_small
+  rotate: false
+  xy: 900, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+beach_house_button
+  rotate: false
+  xy: 214, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+beach_house_button_gold
+  rotate: false
+  xy: 406, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+beach_house_button_gold_small
+  rotate: false
+  xy: 850, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+beach_house_button_small
+  rotate: false
+  xy: 100, 82
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+beachhouse_button_big
+  rotate: false
+  xy: 400, 182
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+bear_trap
+  rotate: false
+  xy: 690, 558
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_basement
+  rotate: false
+  xy: 0, 686
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_beachhouse
+  rotate: false
+  xy: 256, 430
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_mansion
+  rotate: false
+  xy: 128, 430
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+boss_symbol
+  rotate: false
+  xy: 120, 302
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 320, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button_normal
+  rotate: false
+  xy: 0, 558
+  size: 690, 128
+  orig: 690, 128
+  offset: 0, 0
+  index: -1
+capo_symbol
+  rotate: false
+  xy: 800, 182
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+end_turn
+  rotate: false
+  xy: 0, 302
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fists
+  rotate: false
+  xy: 758, 686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+goon_symbol
+  rotate: false
+  xy: 280, 302
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 160, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 512, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 2
+health
+  rotate: false
+  xy: 640, 32
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 3
+health
+  rotate: false
+  xy: 160, 32
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 4
+health
+  rotate: false
+  xy: 320, 32
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 5
+home
+  rotate: false
+  xy: 440, 302
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 818, 558
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 128, 686
+  size: 180, 144
+  orig: 180, 144
+  offset: 0, 0
+  index: -1
+mansion_button
+  rotate: false
+  xy: 278, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mansion_button_big
+  rotate: false
+  xy: 0, 182
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+mansion_button_gold
+  rotate: false
+  xy: 342, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mansion_button_gold_small
+  rotate: false
+  xy: 50, 82
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+mansion_button_small
+  rotate: false
+  xy: 800, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+move
+  rotate: false
+  xy: 672, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 0
+move
+  rotate: false
+  xy: 0, 32
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 1
+move
+  rotate: false
+  xy: 832, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 2
+move
+  rotate: false
+  xy: 352, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 3
+move
+  rotate: false
+  xy: 480, 32
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 4
+move
+  rotate: false
+  xy: 0, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 5
+pinstripe
+  rotate: false
+  xy: 816, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pistol
+  rotate: false
+  xy: 308, 686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+rotate
+  rotate: false
+  xy: 688, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+scope
+  rotate: false
+  xy: 560, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shotgun
+  rotate: false
+  xy: 458, 686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+sniper
+  rotate: false
+  xy: 608, 686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 150, 836
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: -1
+uzi
+  rotate: false
+  xy: 0, 836
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

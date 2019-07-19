@@ -1,0 +1,264 @@
+enemy.png
+size: 1024, 1402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_attack_e
+  rotate: false
+  xy: 0, 0
+  size: 640, 100
+  orig: 640, 100
+  offset: 0, 0
+  index: -1
+boss_attack_n
+  rotate: false
+  xy: 0, 100
+  size: 448, 100
+  orig: 448, 100
+  offset: 0, 0
+  index: -1
+boss_attack_s
+  rotate: false
+  xy: 448, 100
+  size: 512, 100
+  orig: 512, 100
+  offset: 0, 0
+  index: -1
+boss_attack_w
+  rotate: false
+  xy: 0, 200
+  size: 640, 100
+  orig: 640, 100
+  offset: 0, 0
+  index: -1
+boss_idle_e
+  rotate: false
+  xy: 640, 200
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+boss_idle_n
+  rotate: false
+  xy: 710, 200
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+boss_idle_s
+  rotate: false
+  xy: 812, 200
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+boss_idle_w
+  rotate: false
+  xy: 914, 200
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+boss_move_e
+  rotate: false
+  xy: 0, 300
+  size: 384, 100
+  orig: 384, 100
+  offset: 0, 0
+  index: -1
+boss_move_n
+  rotate: false
+  xy: 384, 300
+  size: 312, 97
+  orig: 312, 97
+  offset: 0, 0
+  index: -1
+boss_move_s
+  rotate: false
+  xy: 0, 400
+  size: 512, 100
+  orig: 512, 100
+  offset: 0, 0
+  index: -1
+boss_move_w
+  rotate: false
+  xy: 512, 400
+  size: 384, 100
+  orig: 384, 100
+  offset: 0, 0
+  index: -1
+capo_attack_e
+  rotate: false
+  xy: 0, 500
+  size: 640, 100
+  orig: 640, 100
+  offset: 0, 0
+  index: -1
+capo_attack_n
+  rotate: false
+  xy: 0, 600
+  size: 512, 100
+  orig: 512, 100
+  offset: 0, 0
+  index: -1
+capo_attack_s
+  rotate: false
+  xy: 512, 600
+  size: 512, 100
+  orig: 512, 100
+  offset: 0, 0
+  index: -1
+capo_attack_w
+  rotate: false
+  xy: 0, 700
+  size: 640, 100
+  orig: 640, 100
+  offset: 0, 0
+  index: -1
+capo_idle_e
+  rotate: false
+  xy: 640, 700
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+capo_idle_n
+  rotate: false
+  xy: 730, 700
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+capo_idle_s
+  rotate: false
+  xy: 806, 700
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+capo_idle_w
+  rotate: false
+  xy: 886, 700
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+capo_move_e
+  rotate: false
+  xy: 0, 800
+  size: 368, 100
+  orig: 368, 100
+  offset: 0, 0
+  index: -1
+capo_move_n
+  rotate: false
+  xy: 368, 800
+  size: 240, 100
+  orig: 240, 100
+  offset: 0, 0
+  index: -1
+capo_move_s
+  rotate: false
+  xy: 608, 800
+  size: 240, 100
+  orig: 240, 100
+  offset: 0, 0
+  index: -1
+capo_move_w
+  rotate: false
+  xy: 0, 900
+  size: 368, 100
+  orig: 368, 100
+  offset: 0, 0
+  index: -1
+goon_attack_e
+  rotate: false
+  xy: 368, 900
+  size: 640, 90
+  orig: 640, 90
+  offset: 0, 0
+  index: -1
+goon_attack_n
+  rotate: false
+  xy: 0, 1000
+  size: 512, 90
+  orig: 512, 90
+  offset: 0, 0
+  index: -1
+goon_attack_s
+  rotate: false
+  xy: 512, 1000
+  size: 512, 90
+  orig: 512, 90
+  offset: 0, 0
+  index: -1
+goon_attack_w
+  rotate: false
+  xy: 0, 1090
+  size: 640, 90
+  orig: 640, 90
+  offset: 0, 0
+  index: -1
+goon_front
+  rotate: false
+  xy: 640, 1090
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+goon_idle_e
+  rotate: false
+  xy: 768, 1090
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+goon_idle_n
+  rotate: false
+  xy: 832, 1090
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+goon_idle_s
+  rotate: false
+  xy: 0, 1218
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+goon_idle_w
+  rotate: false
+  xy: 112, 1218
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+goon_move_e
+  rotate: false
+  xy: 176, 1218
+  size: 336, 92
+  orig: 336, 92
+  offset: 0, 0
+  index: -1
+goon_move_n
+  rotate: false
+  xy: 512, 1218
+  size: 512, 90
+  orig: 512, 90
+  offset: 0, 0
+  index: -1
+goon_move_s
+  rotate: false
+  xy: 0, 1310
+  size: 512, 90
+  orig: 512, 90
+  offset: 0, 0
+  index: -1
+goon_move_w
+  rotate: false
+  xy: 512, 1310
+  size: 336, 92
+  orig: 336, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,180 @@
+basement.png
+size: 900, 442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brick_ceiling_horz
+  rotate: false
+  xy: 0, 0
+  size: 150, 15
+  orig: 150, 15
+  offset: 0, 0
+  index: -1
+brick_ceiling_vert
+  rotate: false
+  xy: 694, 252
+  size: 23, 183
+  orig: 23, 183
+  offset: 0, 0
+  index: -1
+concrete1
+  rotate: false
+  xy: 0, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+concrete2
+  rotate: false
+  xy: 128, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crate
+  rotate: false
+  xy: 600, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floorboards3
+  rotate: false
+  xy: 728, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kitchen_basement_front
+  rotate: false
+  xy: 450, 124
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+kitchen_basement_side
+  rotate: false
+  xy: 316, 252
+  size: 60, 160
+  orig: 60, 160
+  offset: 0, 0
+  index: -1
+kitchen_side_basement
+  rotate: false
+  xy: 256, 252
+  size: 60, 160
+  orig: 60, 160
+  offset: 0, 0
+  index: -1
+pothole1
+  rotate: false
+  xy: 370, 0
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+pothole2
+  rotate: false
+  xy: 150, 0
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+wall_front_brick
+  rotate: false
+  xy: 0, 124
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_brick_arch
+  rotate: false
+  xy: 150, 124
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_brick_counter
+  rotate: false
+  xy: 750, 62
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_brick_destructable
+  rotate: false
+  xy: 424, 0
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+wall_front_brick_destructable_anim
+  rotate: false
+  xy: 0, 62
+  size: 750, 62
+  orig: 750, 62
+  offset: 0, 0
+  index: -1
+wall_front_pinup
+  rotate: false
+  xy: 185, 0
+  size: 103, 39
+  orig: 103, 39
+  offset: 0, 0
+  index: 1
+wall_front_pinup
+  rotate: false
+  xy: 288, 0
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: 2
+wall_front_struct
+  rotate: false
+  xy: 300, 124
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+wall_side_brick
+  rotate: false
+  xy: 625, 252
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+wall_side_brick_arch
+  rotate: false
+  xy: 717, 252
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+wall_side_brick_counter
+  rotate: false
+  xy: 598, 252
+  size: 27, 183
+  orig: 27, 183
+  offset: 0, 0
+  index: -1
+wall_side_brick_destructable
+  rotate: false
+  xy: 571, 252
+  size: 27, 183
+  orig: 27, 183
+  offset: 0, 0
+  index: -1
+wall_side_brick_destructable_anim
+  rotate: false
+  xy: 376, 252
+  size: 195, 183
+  orig: 195, 183
+  offset: 0, 0
+  index: -1
+wall_side_struct
+  rotate: false
+  xy: 786, 252
+  size: 80, 190
+  orig: 80, 190
+  offset: 0, 0
+  index: -1
