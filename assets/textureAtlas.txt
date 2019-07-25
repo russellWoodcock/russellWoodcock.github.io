@@ -1,0 +1,61 @@
+textureAtlas.png
+size: 1462, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_normal
+  rotate: false
+  xy: 0, 0
+  size: 690, 128
+  orig: 690, 128
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 690, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 818, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 946, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+light_orb
+  rotate: false
+  xy: 1066, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 1194, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wall_horz
+  rotate: false
+  xy: 1322, 0
+  size: 128, 12
+  orig: 128, 12
+  offset: 0, 0
+  index: -1
+wall_vert
+  rotate: false
+  xy: 1450, 0
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
